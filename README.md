@@ -9,10 +9,6 @@
     <img width="100%" alt="NuSegDG overview" src="framework.png"/>
 </div>
 
-## 📰News
-
-**[2024.08.21]** The pre-print paper has been uploaded!
-
 ## 🛠Setup
 
 ```bash
@@ -49,11 +45,13 @@ NuSegDG
 ## 📜Citation
 If you find this work helpful for your project, please consider citing the following paper:
 ```
-@article{lou2024nusegdg,
-  title={NuSegDG: Integration of Heterogeneous Space and Gaussian Kernel for Domain-Generalized Nuclei Segmentation},
-  author={Lou, Zhenye and Xu, Qing and Jiang, Zekun and He, Xiangjian and Chen, Zhen and Wang, Yi and Li, Chenxin and He, Maggie M and Duan, Wenting},
-  journal={arXiv preprint arXiv:2408.11787},
-  year={2024}
+@article{lou2025nusegdg,
+  title={Nusegdg: Integration of heterogeneous space and gaussian kernel for domain-generalized nuclei segmentation},
+  author={Lou, Zhenye and Xu, Qing and Jiang, Zekun and He, Xiangjian and Li, Chenxin and Chen, Zhen and Wang, Yi and He, Maggie M and Duan, Wenting},
+  journal={Knowledge-Based Systems},
+  pages={113641},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
